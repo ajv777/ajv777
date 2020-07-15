@@ -1,3 +1,5 @@
+Hi, I'm Ana 👋
+
 ![alt text](https://github.com/ajv777/About-me/blob/master/image.png)
 
 I'm a **Full Stack Web Developer** and I'm passionate about technologies and everything related to the code. I love learning and share my knowledge through my github profile.
