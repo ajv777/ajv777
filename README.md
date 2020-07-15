@@ -1,16 +1,18 @@
-### Hi there 👋
+![alt text](https://github.com/ajv777/About-me/blob/master/image.png)
 
-<!--
-**ajv777/ajv777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Web Developer** and I'm passionate about technologies and everything related to the code. I love learning and share my knowledge through my github profile.
 
-Here are some ideas to get you started:
+## Most used technologies 💻
+- JavaScript ES6
+- Angular+2
+- React 
+- HTML5
+- CSS3
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/ana-junquera-vara/) 
+
+## How to reach me 📫
+- Contact by email: anajunqueravs@gmail.com
+
